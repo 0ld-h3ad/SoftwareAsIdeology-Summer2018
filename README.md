@@ -9,20 +9,31 @@ Expanding on Wendy Hui Kyong Chun’s theory of software as an analogy for ideol
 
 ## Course
 **Lecture**
-* Point 1
+1. Historical development of software (Chun)
+2. Definition of ideology (Althusser)
+3. Determinism (Zizek)
+4. Infrastructure/Superstructure (Althusser)
+5. Interface (Galloway)
+6. Software/Hardware (Kittrick)
+7. Obfuscation (Galloway)
+8. Fetishism (Marx)
+9. Types of software
+10. Functionality (Galloway)
+11. My work: Personal computing and afro-pessimism
 
 **Activity**
+* Social Software: We will perform a group activity where we mimic software to see how ideology determines our understanding of the world.
 
 ## Readings
 
 **Required**
 
-1. Wendy Hui Kyong Chun, “On Software or the Persistence of Visual Knowledge”\
+1. Wendy Hui Kyong Chun, “On Software or the Persistence of Visual Knowledge”
 2. Alexander Galloway, “Software as Ideology”, from *The Interface Effect*
 
 **Recommended**
 
-* Louis Althusser, “Ideology and Ideological State Apparatuses”\
-* Wendy Hui Kyong Chun, *Control and Freedom: Power and Paranoia in the Age of Fiber Optics*\
-* Friedrich Kittler, “There is No Software”\
+* Louis Althusser, “Ideology and Ideological State Apparatuses”
+* Wendy Hui Kyong Chun, *Control and Freedom: Power and Paranoia in the Age of Fiber Optics*
+* Friedrich Kittler, “There is No Software”
 * American Artist, “Black Gooey Universe”
