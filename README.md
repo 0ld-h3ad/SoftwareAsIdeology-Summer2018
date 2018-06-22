@@ -31,7 +31,7 @@ Expanding on Wendy Hui Kyong Chun’s theory of software as an analogy for ideol
 1. [Wendy Hui Kyong Chun, “On Software or the Persistence of Visual Knowledge”](wendy-hui-kyong-chun_on-software.pdf)
 2. [Alexander Galloway, “Software as Ideology”, from *The Interface Effect*](galloway_alexander_software-as-ideology.pdf)
 
-**Recommended**
+**Further Reading**
 
 * [Louis Althusser, “Ideology and Ideological State Apparatuses”](louis-althusser_ideology.pdf)
 * [Wendy Hui Kyong Chun, *Control and Freedom: Power and Paranoia in the Age of Fiber Optics*](Wendy_Hui_Kyong_Chun_Control_and_Freedom.pdf)
