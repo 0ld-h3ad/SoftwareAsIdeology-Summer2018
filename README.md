@@ -35,5 +35,5 @@ Expanding on Wendy Hui Kyong Chun’s theory of software as an analogy for ideol
 
 * Louis Althusser, “Ideology and Ideological State Apparatuses”
 * Wendy Hui Kyong Chun, *Control and Freedom: Power and Paranoia in the Age of Fiber Optics*
-* Friedrich Kittler, “There is No Software”
+* [Friedrich Kittler, “There is No Software”](SFPC-code-societies/Kittler_1992_No_Software.pdf)
 * American Artist, “Black Gooey Universe”
