@@ -28,12 +28,12 @@ Expanding on Wendy Hui Kyong Chun’s theory of software as an analogy for ideol
 
 **Required**
 
-1. Wendy Hui Kyong Chun, “On Software or the Persistence of Visual Knowledge”
-2. Alexander Galloway, “Software as Ideology”, from *The Interface Effect*
+1. [Wendy Hui Kyong Chun, “On Software or the Persistence of Visual Knowledge”](SFPC-code-societies/wendy-hui-kyong-chun_on-software.pdf)
+2. [Alexander Galloway, “Software as Ideology”, from *The Interface Effect*](SFPC-code-societies/galloway_alexander_software-as-ideology.pdf)
 
 **Recommended**
 
-* Louis Althusser, “Ideology and Ideological State Apparatuses”
-* Wendy Hui Kyong Chun, *Control and Freedom: Power and Paranoia in the Age of Fiber Optics*
+* [Louis Althusser, “Ideology and Ideological State Apparatuses”](SFPC-code-societies/louis-althusser_ideology.pdf)
+* [Wendy Hui Kyong Chun, *Control and Freedom: Power and Paranoia in the Age of Fiber Optics*](SFPC-code-societies/Wendy_Hui_Kyong_Chun_Control_and_Freedom.pdf)
 * [Friedrich Kittler, “There is No Software”](SFPC-code-societies/Kittler_1992_No_Software.pdf)
-* American Artist, “Black Gooey Universe”
+* [American Artist, “Black Gooey Universe”](SFPC-code-societies/UNBAG_2_AmericanArtist.pdf)
