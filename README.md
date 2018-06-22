@@ -14,7 +14,7 @@ Expanding on Wendy Hui Kyong Chun’s theory of software as an analogy for ideol
 3. Determinism (Zizek)
 4. Infrastructure/Superstructure (Althusser)
 5. Interface (Galloway)
-6. Software/Hardware (Kittrick)
+6. Software/Hardware (Kittler)
 7. Obfuscation (Galloway)
 8. Fetishism (Marx)
 9. Types of software
