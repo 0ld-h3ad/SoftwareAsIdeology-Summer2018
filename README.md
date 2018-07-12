@@ -8,6 +8,8 @@ July 12, 2018 6:30 – 9:30PM
 Expanding on Wendy Hui Kyong Chun’s theory of software as an analogy for ideology, we will look in depth at Alexander Galloway’s take on the idea, which contrasts a historical overview of ideology with a contemporary description of software, to reveal where these two interfacing methods of society overlap. We will discuss how software became distinct from hardware, the presumption of programmers as different from users, and how obfuscation is an essential tool of software development as well as ideology. 
 
 ## Course
+[*Course Outline*](Course-Outline.md) (Updated 7/12/18)
+
 **Lecture**
 1. History of software (Chun)
 2. Definition of ideology (Althusser)
@@ -21,8 +23,8 @@ Expanding on Wendy Hui Kyong Chun’s theory of software as an analogy for ideol
 10. Functionality (Galloway)
 11. [My work](https://americanartist.us/black-gooey-universe)—Personal computing and afro-pessimism
 
-**Activity**
-* Social Software: We will perform a group activity where we mimic software to see how ideology determines our understanding of the world.
+~~**Activity**~~\
+~~* Social Software: We will perform a group activity where we mimic software to see how ideology determines our understanding of the world.~~\
 
 ## Readings
 
