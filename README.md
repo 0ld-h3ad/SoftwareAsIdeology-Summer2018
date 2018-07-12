@@ -24,7 +24,7 @@ Expanding on Wendy Hui Kyong Chun’s theory of software as an analogy for ideol
 11. [My work](https://americanartist.us/black-gooey-universe)—Personal computing and afro-pessimism
 
 ~~**Activity**~~\
-~~* Social Software: We will perform a group activity where we mimic software to see how ideology determines our understanding of the world.~~\
+~~* Social Software: We will perform a group activity where we mimic software to see how ideology determines our understanding of the world.~~
 
 ## Readings
 
