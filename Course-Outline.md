@@ -13,8 +13,8 @@
       4. Althusser says enacting the belief creates the belief. “Kneel and pray and then you will believe”
       5. Zizek - “Ideology persists in one’s actions rather than in one’s beliefs” (Chun, 44)
    4. Hegemony (Gramsci)
-   5. Pervert’s Guide to Ideology
-   6. The Matrix: Red Pill
+   5. [Pervert’s Guide to Ideology](https://www.youtube.com/watch?v=TVwKjGbz60k)
+   6. [The Matrix: Red Pill](https://www.youtube.com/watch?v=zE7PKRjrid4)
 ### 2. History of software (Chun)
    1. Programming
       1. Direct Programming
@@ -43,15 +43,16 @@
    10. Functionality (Galloway, 69)
 ### 4. Types of software?
 ### 5. Artworks
-   1. American Artist, *Black Gooey Universe*
-   2. Hito Steyerl, *How Not To Be Seen: A Fucking Didactic Educational .MOV File*, 2013
-   3. Sondra Perry, *netherrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr 1.0.2*, 2016
-   4. Sondra Perry, *Double Quadruple Etcetera Etcetera I & II*, 2013
-   5. Trevor Paglen, Trevor Paglen Shows Us How Computers See The World
-   6. Trevor Paglen, Autonomy Cube
-   7. Berlin Biennale
-   8. Ian Cheng, BOB, Emissaries
-   9. Ryan Kuo, *Example*, 2013-2014
-   10. American Artist, *Prosthetic Knowledge of the Dignity Image*, 2016
+   1. American Artist, [*Black Gooey Universe*](https://americanartist.us/black-gooey-universe)
+   2. Hito Steyerl, [*How Not To Be Seen: A Fucking Didactic Educational .MOV File*](https://www.artforum.com/video/hito-steyerl-how-not-to-be-seen-a-fucking-didactic-educational-mov-file-2013-51651), 2013
+   3. Sondra Perry, [*netherrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr 1.0.2*](http://sondraperry.com/netherrrr-1-0-2), 2016
+   4. Sondra Perry, [*Double Quadruple Etcetera Etcetera I & II*](http://sondraperry.com/Double-Quadruple-Etcetera-Etcetera), 2013
+   5. Trevor Paglen, [Trevor Paglen Shows Us How Computers See The World](https://www.youtube.com/watch?v=HEI8cuGKiNk)
+   6. Trevor Paglen, [Autonomy Cube](https://www.youtube.com/watch?v=o1GHr0OsILM)
+      1. [Berlin Biennale](http://bb9.berlinbiennale.de/participants/trevor-paglen-jacob-appelbaum/)
+   8. Ian Cheng, [BOB, Emissaries](https://www.youtube.com/watch?v=XFmMrcW2ZsM)
+   9. Ryan Kuo, [The Pointer](http://bitforms.art/exhibitions/the-pointer), 2018
+      1. [*Example*](https://rkuo.net/example-1), 2013-2014
+   10. American Artist, [*Prosthetic Knowledge of the Dignity Image*](https://vimeo.com/154434911), 2016
 
 
