@@ -16,46 +16,42 @@
    5. Pervert’s Guide to Ideology
    6. The Matrix: Red Pill
 ### 2. History of software (Chun)
-Programming
-Direct Programming
-Symbolic programming
-Automatic Programming
-Democratization of programming
-Erasure of women programmers
-Transition from commanding a woman to commanding a computer
-Structured Programming - hides the machine
-Mastery
-Causal pleasure and absolute control
-Direct Manipulation & direct engagement (GUI)
-User amplification
-Rhetoric of Interactivity
-Cognitive Map (Jameson)
-Analogy
-False consciousness (Chun, 43)
-Causality - meaning of the law
-Composite of Software/Hardware (Chun, 28, via Kittler)
-Ideology and its critique (Chun, 44)
-Interface of society (Galloway, 54)
-Ideology as conceptual interface (Galloway, 58)
-User/Programmer - determinism (Galloway, 58)
-Fetishism (Galloway, 60, 64)
-Obfuscation and reflection (Encapsulation and transcoding) (Galloway, 64, 65,66, 68, 69)
-Functionality (Galloway, 69)
-
-
-Types of software?
-
-
-Artworks
-American Artist, Black Gooey Universe
-Hito Steyerl, How Not To Be Seen: A Fucking Didactic Educational .MOV File, 2013
-Sondra Perry, netherrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr 1.0.2, 2016
-Sondra Perry, Double Quadruple Etcetera Etcetera I & II, 2013
-Trevor Paglen, Trevor Paglen Shows Us How Computers See The World
-Trevor Paglen, Autonomy Cube
-Berlin Biennale
-Ian Cheng, BOB, Emissaries
-Ryan Kuo, Example, 2013-2014
-American Artist, Prosthetic Knowledge of the Dignity Image, 2016
+   1. Programming
+      1. Direct Programming
+      2. Symbolic programming
+      3. Automatic Programming
+   2. Democratization of programming
+      1. Erasure of women programmers
+      2. Transition from commanding a woman to commanding a computer
+      3. Structured Programming - hides the machine
+   3. Mastery
+      1. Causal pleasure and absolute control
+      2. Direct Manipulation & direct engagement (GUI)
+      3. User amplification
+      4. Rhetoric of Interactivity
+      5. Cognitive Map (Jameson)
+### 3. Analogy
+   1. False consciousness (Chun, 43)
+   2. Causality - meaning of the law
+   3. Composite of Software/Hardware (Chun, 28, via Kittler)
+   4. Ideology and its critique (Chun, 44)
+   5. Interface of society (Galloway, 54)
+   6. Ideology as conceptual interface (Galloway, 58)
+   7. User/Programmer - determinism (Galloway, 58)
+   8. Fetishism (Galloway, 60, 64)
+   9. Obfuscation and reflection (Encapsulation and transcoding) (Galloway, 64, 65,66, 68, 69)
+   10. Functionality (Galloway, 69)
+### 4. Types of software?
+### 5. Artworks
+   1. American Artist, *Black Gooey Universe*
+   2. Hito Steyerl, *How Not To Be Seen: A Fucking Didactic Educational .MOV File*, 2013
+   3. Sondra Perry, *netherrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr 1.0.2*, 2016
+   4. Sondra Perry, *Double Quadruple Etcetera Etcetera I & II*, 2013
+   5. Trevor Paglen, Trevor Paglen Shows Us How Computers See The World
+   6. Trevor Paglen, Autonomy Cube
+   7. Berlin Biennale
+   8. Ian Cheng, BOB, Emissaries
+   9. Ryan Kuo, *Example*, 2013-2014
+   10. American Artist, *Prosthetic Knowledge of the Dignity Image*, 2016
 
 
