@@ -25,6 +25,7 @@ Expanding on Wendy Hui Kyong Chun’s theory of software as an analogy for ideol
 
 ~~**Activity**~~\
 ~~* Social Software: We will perform a group activity where we mimic software to see how ideology determines our understanding of the world.~~
+Gonna watch some art vids instead! :100:
 
 ## Readings
 
