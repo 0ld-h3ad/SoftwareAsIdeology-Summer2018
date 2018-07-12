@@ -1,21 +1,21 @@
-1. Definition of ideology (Marx)
-  * Reproduction of labor & relations
-    * Reproductive labor
-    * Labor force learns know-how, and they are all destined for a specific role, they learn to respect discipline and the division of labor. They learn the “rules”
-    * They must not only reproduce labor, they must reproduce submission to “the rules” through false consciousness.
-  * Infrastructure/Superstructure
-    * Infrastructure—economic base: produces unity of productive forces and relations of production
-    * Superstructure—two levels: law and state; ideology (different ideologies, religious, ethical, legal, political, etc.)
-  * Determinism
-    * Base determines superstructure.
-    * Ideology is a projection of the consciousness of the ruling class.
-    * Superstructure is either autonomous or reciprocal to the base.
-    * Althusser says enacting the belief creates the belief. “Kneel and pray and then you will believe”
-    * Zizek - “Ideology persists in one’s actions rather than in one’s beliefs” (Chun, 44)
-  * Hegemony (Gramsci)
-  * Pervert’s Guide to Ideology
-  * The Matrix: Red Pill
-History of software (Chun)
+### 1. Definition of ideology (Marx)
+   1. Reproduction of labor & relations
+      1. Reproductive labor
+      2. Labor force learns know-how, and they are all destined for a specific role, they learn to respect discipline and the division of labor. They learn the “rules”
+      3. They must not only reproduce labor, they must reproduce submission to “the rules” through false consciousness.
+   2. Infrastructure/Superstructure
+      1. Infrastructure—economic base: produces unity of productive forces and relations of production
+      2. Superstructure—two levels: law and state; ideology (different ideologies, religious, ethical, legal, political, etc.)
+   3. Determinism
+      1. Base determines superstructure.
+      2. Ideology is a projection of the consciousness of the ruling class.
+      3. Superstructure is either autonomous or reciprocal to the base.
+      4. Althusser says enacting the belief creates the belief. “Kneel and pray and then you will believe”
+      5. Zizek - “Ideology persists in one’s actions rather than in one’s beliefs” (Chun, 44)
+   4. Hegemony (Gramsci)
+   5. Pervert’s Guide to Ideology
+   6. The Matrix: Red Pill
+### 2. History of software (Chun)
 Programming
 Direct Programming
 Symbolic programming
